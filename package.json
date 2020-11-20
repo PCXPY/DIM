@@ -66,7 +66,7 @@
     "grunt-rsync": "^2.0.1",
     "grunt-sort-json": "github:delphiactual/grunt-sort-json",
     "grunt-webstore-upload": "^0.9.12",
-    "handlebars": "^4.0.11",
+    "handlebars": "^4.5.3",
     "handlebars-loader": "^1.6.0",
     "html-loader": "^0.5.1",
     "html-webpack-plugin": "^2.30.1",
